@@ -76,5 +76,3 @@ This repository contains Jupyter Notebooks for various text processing tasks, fo
 - Add a notebook for multilingual text processing.
 - Include sentiment analysis based on detected words.
 - Expand functionality for integration with machine learning pipelines.
-
-This repository serves as a foundational toolset for preprocessing and analyzing text data, adaptable for various NLP workflows.
